@@ -35,7 +35,7 @@
 | **🌐 Сеть** | Сброс DNS-кэша, оптимизация TCP/IP |
 | **📊 Мониторинг** | Отображение загрузки CPU, RAM, температуры компонентов |
 
-### 📦 Установка (готовый .exe)
+### 📦 Установка
 
 1. Скачайте последнюю версию `Optimizator By X1MIK.exe или Optimizator By X1MIK.apk`.
 2. Запустите файл **от имени администратора** (программа автоматически запросит права при старте).
@@ -72,7 +72,7 @@ Created with ❤️ by **x1mik**.
 | **🌐 Network** | Flush DNS cache, TCP/IP optimizations |
 | **📊 Monitoring** | Real‑time CPU, RAM, and temperature readings |
 
-### 📦 Installation (Pre‑built .exe)
+### 📦 Installation
 
 1. Download the latest `Optimizator By X1MIK.exe or Optimizator By X1MIK.apk`.
 2. Run the file **as Administrator** (the program will automatically request elevation on startup).
