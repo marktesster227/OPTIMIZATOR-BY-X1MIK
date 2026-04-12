@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="app.ico" width="128" alt="Optimizer Icon">
-</p>
-
-<p align="center">
   <b>🇷🇺 Русский</b> | <a href="#-english-version">🇬🇧 English</a>
 </p>
 
