@@ -2,7 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-3.0-blue?style=for-the-badge" alt="version">
-  <img src="https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey?style=for-the-badge" alt="platform">
+  <img src="https://img.shields.io/badge/platform-Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+  <img src="https://img.shields.io/badge/platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
   <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="license">
 </p>
 
@@ -52,22 +53,6 @@
 ❌ iOS – Не поддерживается т.к. на айфоне это сделать просто нереально из за полных ограничений.
 
 EN
-
-# 🚀 Ultimate Windows Optimizer by x1mik
-
-<p align="center">
-  <img src="https://img.shields.io/badge/version-3.0-blue?style=for-the-badge" alt="version">
-  <img src="https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey?style=for-the-badge" alt="platform">
-  <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="license">
-</p>
-
-<p align="center">
-  <img src="app.ico" width="128" alt="Optimizer Icon">
-</p>
-
-<p align="center">
-  <a href="#-russian-version">🇷🇺 Русский</a> | <b>🇬🇧 English</b>
-</p>
 
 ---
 
