@@ -33,7 +33,7 @@
 
 ### 📦 Установка
 
-1. Скачайте последнюю версию `Optimizator By X1MIK.exe или Optimizator By X1MIK.apk`.
+1. Скачайте последнюю версию `Optimizer By X1MIK.exe или Optimizer By X1MIK.apk`.
 2. Запустите файл **от имени администратора** (программа автоматически запросит права при старте).
 3. Нажмите **«START FULL OPTIMIZATION»** для полной очистки или используйте отдельные кнопки.
 
@@ -70,7 +70,7 @@ Created with ❤️ by **x1mik**.
 
 ### 📦 Installation
 
-1. Download the latest `Optimizator By X1MIK.exe or Optimizator By X1MIK.apk`.
+1. Download the latest `Optimizer By X1MIK.exe or Optimizer By X1MIK.apk`.
 2. Run the file **as Administrator** (the program will automatically request elevation on startup).
 3. Click **«START FULL OPTIMIZATION»** for a complete cleanup or use individual buttons.
 
