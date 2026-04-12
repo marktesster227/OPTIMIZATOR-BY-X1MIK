@@ -37,8 +37,71 @@
 
 ### 📦 Установка (готовый .exe)
 
-1. Скачайте последнюю версию `UltimateOptimizer.exe`.
+1. Скачайте последнюю версию `Optimizator By X1MIK.exe или Optimizator By X1MIK.apk`.
 2. Запустите файл **от имени администратора** (программа автоматически запросит права при старте).
 3. Нажмите **«START FULL OPTIMIZATION»** для полной очистки или используйте отдельные кнопки.
 
 > ⚠️ **Важно**: для работы некоторых функций необходимы права администратора. Программа сама предложит перезапуск с повышенными привилегиями.
+
+⚠️ Поддерживаемые платформы:
+
+✅ Windows – Полная функциональность.
+
+⚠️ Android – Лимитированная функциональность из за ограничений системы.
+
+❌ iOS – Не поддерживается т.к. на айфоне это сделать просто нереально из за полных ограничений.
+
+EN
+
+# 🚀 Ultimate Windows Optimizer by x1mik
+
+<p align="center">
+  <img src="https://img.shields.io/badge/version-3.0-blue?style=for-the-badge" alt="version">
+  <img src="https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey?style=for-the-badge" alt="platform">
+  <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="license">
+</p>
+
+<p align="center">
+  <img src="app.ico" width="128" alt="Optimizer Icon">
+</p>
+
+<p align="center">
+  <a href="#-russian-version">🇷🇺 Русский</a> | <b>🇬🇧 English</b>
+</p>
+
+---
+
+## 🇬🇧 English Version
+
+### 🔥 About
+**Ultimate Windows Optimizer** is a powerful and truly effective tool for deep Windows optimization. Unlike many "boosters" that just draw fancy labels, this program **actually cleans RAM, caches, temporary files, disables telemetry and unnecessary services**, and switches the system to maximum performance mode.
+
+Created with ❤️ by **x1mik**.
+
+### ✨ Key Features
+
+| Category | Action |
+|----------|--------|
+| **🧠 RAM & Cache** | Purge Standby List, trim all processes Working Set, flush file system cache |
+| **🧹 Disk Cleanup** | Delete temp files, Prefetch, Recycle Bin, browser caches (Chrome, Edge, Firefox), GPU shader caches (NVIDIA/AMD) |
+| **⚙️ Fine‑Tuning** | Disable visual effects, lower background process priority, set High Performance power plan |
+| **🛡️ Privacy** | Disable telemetry, Cortana, OneDrive, clear Windows Event Logs |
+| **🚫 Services** | Safely disable dozens of unnecessary services (Xbox, Print Spooler, Windows Search, etc.) |
+| **🌐 Network** | Flush DNS cache, TCP/IP optimizations |
+| **📊 Monitoring** | Real‑time CPU, RAM, and temperature readings |
+
+### 📦 Installation (Pre‑built .exe)
+
+1. Download the latest `Optimizator By X1MIK.exe or Optimizator By X1MIK.apk`.
+2. Run the file **as Administrator** (the program will automatically request elevation on startup).
+3. Click **«START FULL OPTIMIZATION»** for a complete cleanup or use individual buttons.
+
+> ⚠️ **Important**: Administrator privileges are required for many functions. The program will prompt for elevation if needed.
+
+⚠️ Supported platforms:
+
+✅ Windows – Full functionality.
+
+⚠️ Android – Limited functionality due to system restrictions.
+
+❌ iOS – Not supported because on iPhone it's practically impossible due to full system lockdown.
