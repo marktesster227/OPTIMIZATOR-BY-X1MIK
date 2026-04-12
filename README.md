@@ -1,4 +1,4 @@
-# 🚀 Ultimate Windows Optimizer by x1mik
+#          🚀 Ultimate Windows Optimizer by x1mik
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-3.0-blue?style=for-the-badge" alt="version">
