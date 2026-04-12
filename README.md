@@ -35,16 +35,9 @@
 | **🌐 Сеть** | Сброс DNS-кэша, оптимизация TCP/IP |
 | **📊 Мониторинг** | Отображение загрузки CPU, RAM, температуры компонентов |
 
-### 📸 Скриншоты
-
-<p align="center">
-  <img src="https://via.placeholder.com/600x400/1e1e2f/ffffff?text=Main+Window" alt="Main Window" width="400">
-  <img src="https://via.placeholder.com/600x400/1e1e2f/ffffff?text=Optimization+Log" alt="Log Tab" width="400">
-</p>
-
 ### 📦 Установка (готовый .exe)
 
-1. Скачайте последнюю версию `UltimateOptimizer.exe` из [Releases](https://github.com/yourusername/yourrepo/releases).
+1. Скачайте последнюю версию `UltimateOptimizer.exe`.
 2. Запустите файл **от имени администратора** (программа автоматически запросит права при старте).
 3. Нажмите **«START FULL OPTIMIZATION»** для полной очистки или используйте отдельные кнопки.
 
