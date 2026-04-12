@@ -2,9 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-3.0-blue?style=for-the-badge" alt="version">
-  <img src="https://img.shields.io/badge/platform-Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
-  <img src="https://img.shields.io/badge/platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
-  <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="license">
+  <img src="https://img.shields.io/badge/platform-Windows%20%7C%20Android-lightgrey?style=for-the-badge" alt="platform">
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="license"></a>
 </p>
 
 <p align="center">
