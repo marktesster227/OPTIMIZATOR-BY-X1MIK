@@ -1,0 +1,51 @@
+# 🚀 Ultimate Windows Optimizer by x1mik
+
+<p align="center">
+  <img src="https://img.shields.io/badge/version-3.0-blue?style=for-the-badge" alt="version">
+  <img src="https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey?style=for-the-badge" alt="platform">
+  <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="license">
+</p>
+
+<p align="center">
+  <img src="app.ico" width="128" alt="Optimizer Icon">
+</p>
+
+<p align="center">
+  <b>🇷🇺 Русский</b> | <a href="#-english-version">🇬🇧 English</a>
+</p>
+
+---
+
+## 🇷🇺 Русская версия
+
+### 🔥 О программе
+**Ultimate Windows Optimizer** — это мощный и реально работающий инструмент для глубокой оптимизации Windows. В отличие от многих «ускорителей», которые только рисуют красивые надписи, эта программа **действительно очищает оперативную память, кэш, временные файлы, отключает телеметрию и ненужные службы**, переводит систему в режим максимальной производительности.
+
+Создано с ❤️ пользователем **x1mik**.
+
+### ✨ Основные возможности
+
+| Категория | Действие |
+|-----------|----------|
+| **🧠 ОЗУ и кэш** | Очистка Standby List, сброс Working Set всех процессов, сброс файлового кэша |
+| **🧹 Очистка диска** | Удаление временных файлов, Prefetch, корзины, кэша браузеров (Chrome, Edge, Firefox), шейдерного кэша GPU (NVIDIA/AMD) |
+| **⚙️ Тонкая настройка** | Отключение визуальных эффектов, понижение приоритета фоновых процессов, установка схемы питания «Высокая производительность» |
+| **🛡️ Приватность** | Отключение телеметрии, Cortana, OneDrive, очистка журналов событий Windows |
+| **🚫 Службы** | Безопасное отключение десятков ненужных служб (Xbox, печать, поиск Windows и др.) |
+| **🌐 Сеть** | Сброс DNS-кэша, оптимизация TCP/IP |
+| **📊 Мониторинг** | Отображение загрузки CPU, RAM, температуры компонентов |
+
+### 📸 Скриншоты
+
+<p align="center">
+  <img src="https://via.placeholder.com/600x400/1e1e2f/ffffff?text=Main+Window" alt="Main Window" width="400">
+  <img src="https://via.placeholder.com/600x400/1e1e2f/ffffff?text=Optimization+Log" alt="Log Tab" width="400">
+</p>
+
+### 📦 Установка (готовый .exe)
+
+1. Скачайте последнюю версию `UltimateOptimizer.exe` из [Releases](https://github.com/yourusername/yourrepo/releases).
+2. Запустите файл **от имени администратора** (программа автоматически запросит права при старте).
+3. Нажмите **«START FULL OPTIMIZATION»** для полной очистки или используйте отдельные кнопки.
+
+> ⚠️ **Важно**: для работы некоторых функций необходимы права администратора. Программа сама предложит перезапуск с повышенными привилегиями.
