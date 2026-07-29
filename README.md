@@ -1,8 +1,8 @@
 # ㅤㅤㅤㅤ🚀 Ultimate Windows Optimizer by x1mik
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-3.0-blue?style=for-the-badge" alt="version">
-  <img src="https://img.shields.io/badge/platform-Windows%20%7C%20-lightgrey?style=for-the-badge" alt="platform">
+  <img src="https://img.shields.io/badge/version-10.0-blue?style=for-the-badge" alt="version">
+  <img src="https://img.shields.io/badge/platform-Windows-lightgrey?style=for-the-badge" alt="platform">
   <a href="./LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="license"></a>
 </p>
 
