@@ -33,7 +33,7 @@
 
 ### 📦 Установка
 
-1. Скачайте последнюю версию `Optimizer By X1MIK.exe или Optimizer By X1MIK.apk`.
+1. Скачайте последнюю версию `Optimizer By X1MIK.exe`.
 2. Запустите файл **от имени администратора** (программа автоматически запросит права при старте).
 3. Нажмите **«START FULL OPTIMIZATION»** для полной очистки или используйте отдельные кнопки.
 
@@ -46,6 +46,8 @@
 ⚠️ Android – Лимитированная функциональность из за ограничений системы.
 
 ❌ iOS – Не поддерживается т.к. на айфоне это сделать просто нереально из за полных ограничений.
+
+релизы: https://github.com/marktesster227/OPTIMIZATOR-BY-X1MIK/releases
 
 ---
 
@@ -70,7 +72,7 @@ Created with ❤️ by **x1mik**.
 
 ### 📦 Installation
 
-1. Download the latest `Optimizer By X1MIK.exe or Optimizer By X1MIK.apk`.
+1. Download the latest `Optimizer By X1MIK.exe`.
 2. Run the file **as Administrator** (the program will automatically request elevation on startup).
 3. Click **«START FULL OPTIMIZATION»** for a complete cleanup or use individual buttons.
 
@@ -83,3 +85,5 @@ Created with ❤️ by **x1mik**.
 ⚠️ Android – Limited functionality due to system restrictions.
 
 ❌ iOS – Not supported because on iPhone it's practically impossible due to full system lockdown.
+
+releases: https://github.com/marktesster227/OPTIMIZATOR-BY-X1MIK/releases
