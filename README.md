@@ -42,14 +42,6 @@
 
 > ⚠️ **Важно**: для работы некоторых функций необходимы права администратора. Программа сама предложит перезапуск с повышенными привилегиями.
 
-⚠️ Поддерживаемые платформы:
-
-✅ Windows – Полная функциональность.
-
-⚠️ Android – Лимитированная функциональность из за ограничений системы.
-
-❌ iOS – Не поддерживается т.к. на айфоне это сделать просто нереально из за полных ограничений.
-
 релизы: https://github.com/marktesster227/OPTIMIZATOR-BY-X1MIK/releases
 
 ---
@@ -80,13 +72,5 @@ Created with ❤️ by **x1mik**.
 3. Click **«START FULL OPTIMIZATION»** for a complete cleanup or use individual buttons.
 
 > ⚠️ **Important**: Administrator privileges are required for many functions. The program will prompt for elevation if needed.
-
-⚠️ Supported platforms:
-
-✅ Windows – Full functionality.
-
-⚠️ Android – Limited functionality due to system restrictions.
-
-❌ iOS – Not supported because on iPhone it's practically impossible due to full system lockdown.
 
 releases: https://github.com/marktesster227/OPTIMIZATOR-BY-X1MIK/releases
