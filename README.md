@@ -4,6 +4,9 @@
   <img src="https://img.shields.io/badge/version-10.0-blue?style=for-the-badge" alt="version">
   <img src="https://img.shields.io/badge/platform-Windows-lightgrey?style=for-the-badge" alt="platform">
   <a href="./LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="license"></a>
+  <a href="https://github.com/marktesster227/OPTIMIZATOR-BY-X1MIK/releases">
+    <img src="https://img.shields.io/github/v/release/marktesster227/OPTIMIZATOR-BY-X1MIK?style=for-the-badge&color=blue" alt="release">
+  </a>
 </p>
 
 <p align="center">
